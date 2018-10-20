@@ -1,6 +1,7 @@
 # LeetCode solutions
 
 ![](https://i.imgur.com/zZnUaf9.png)
+
 |  # | Title                                          | Difficulty | Solutions  |
 |----|------------------------------------------------|------------|------------|
 |  1 | Two sum                                        | Easy       | Go, Python |
